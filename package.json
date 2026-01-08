@@ -1,7 +1,7 @@
 {
-  "name": "daily-trivia-challenge",
+  "name": "eligoznae",
   "version": "1.0.0",
-  "description": "A daily trivia game with ad monetization",
+  "description": "EliGoZnae - daily knowledge challenge with ad monetization",
   "type": "module",
   "scripts": {
     "dev": "vite",

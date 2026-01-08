@@ -1,4 +1,4 @@
-# 🎯 Daily Trivia Challenge
+# 🎯 EliGoZnae
 
 A production-ready trivia game with ad monetization. Players answer 10 daily questions, track their scores, compete on leaderboards, and build streaks.
 

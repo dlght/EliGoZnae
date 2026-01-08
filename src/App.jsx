@@ -841,7 +841,7 @@ export default function TriviaChallenge() {
       <div className="container">
         {/* Header */}
         <div className="header">
-          <div className="logo">TRIVIA</div>
+          <div className="logo">EliGoZnae</div>
           <div className="tagline">Test Your Knowledge Daily</div>
         </div>
 

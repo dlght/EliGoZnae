@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🎯 Daily Trivia Challenge - Quick Start"
+echo "🎯 EliGoZnae - Quick Start"
 echo "========================================"
 echo ""
 
