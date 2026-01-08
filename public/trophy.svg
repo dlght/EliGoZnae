@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Trophy Cup -->
+  <path d="M30 20 L30 35 Q30 50 50 50 Q70 50 70 35 L70 20 Z" fill="url(#goldGradient)" stroke="#B8860B" stroke-width="2"/>
+  
+  <!-- Trophy Handles -->
+  <path d="M25 25 Q15 25 15 35 Q15 45 25 45" fill="none" stroke="url(#goldGradient)" stroke-width="3"/>
+  <path d="M75 25 Q85 25 85 35 Q85 45 75 45" fill="none" stroke="url(#goldGradient)" stroke-width="3"/>
+  
+  <!-- Trophy Stem -->
+  <rect x="45" y="50" width="10" height="15" fill="url(#goldGradient)" stroke="#B8860B" stroke-width="1"/>
+  
+  <!-- Trophy Base -->
+  <ellipse cx="50" cy="72" rx="15" ry="5" fill="url(#goldGradient)" stroke="#B8860B" stroke-width="1"/>
+  <rect x="35" y="67" width="30" height="5" fill="url(#goldGradient)" stroke="#B8860B" stroke-width="1"/>
+</svg>
